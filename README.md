@@ -1,10 +1,11 @@
 ## 📷 Simulation
 ![Circuit](circuit.png)
 
-# pic16f628a-bus-passenger-counter
+# PIC16F628A Bus Passenger Counter
+
 Bus passenger counter system using PIC16F628A (Assembly &amp; Proteus)
 
-# PIC16F628A Bus Passenger Counter
+
 
 ## 📌 Project Description
 
